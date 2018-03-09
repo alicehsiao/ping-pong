@@ -1,0 +1,22 @@
+.pastel {
+  color: #E9DDB1;
+  font-weight: bold;
+}
+
+.row {
+    height: 100%;
+}
+
+html, body {
+  height: 100%;
+}
+
+.col-md-3 {
+  background-color: #8FBC8E;
+  height: 100%;
+}
+
+.fill {
+    min-height: 100vh;
+    height: 100%;
+}
